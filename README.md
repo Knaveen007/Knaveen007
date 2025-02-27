@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Knaveen007
-- 👀 I’m interested in AI/ML
+- 👀 Passionate in AI/ML
 - 🌱 I’m currently working on Machine Learning
 - 💞️ I’m looking to collaborate with the entusiasts who are working on Machine on Learning
 - 
